@@ -1,0 +1,32 @@
+[
+  {
+    "queryImage": "https://cbu01.alicdn.com/img/ibank/O1CN01ImHZo51sn2AJ4qBDw_!!2009745810-0-cib.jpg",
+    "rank": 1,
+    "offerId": "EXAMPLE-1688-001",
+    "url": "https://detail.1688.com/offer/example-001.html",
+    "title": "示例宠物玩具",
+    "price": 2.4,
+    "currency": "CNY",
+    "similarityScore": 0.82,
+    "ordersCount": 320,
+    "repurchaseRatePercent": 42,
+    "companyName": "示例工贸有限公司",
+    "city": "金华市",
+    "isSponsored": false
+  },
+  {
+    "queryImage": "https://cbu01.alicdn.com/img/ibank/O1CN01ImHZo51sn2AJ4qBDw_!!2009745810-0-cib.jpg",
+    "rank": 2,
+    "offerId": "EXAMPLE-1688-002",
+    "url": "https://detail.1688.com/offer/example-002.html",
+    "title": "示例棉绳玩具",
+    "price": 3.1,
+    "currency": "CNY",
+    "similarityScore": 0.74,
+    "ordersCount": 95,
+    "repurchaseRatePercent": 28,
+    "companyName": "示例日用品厂",
+    "city": "义乌市",
+    "isSponsored": true
+  }
+]
