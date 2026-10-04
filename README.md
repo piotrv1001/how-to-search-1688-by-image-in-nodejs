@@ -2,6 +2,10 @@
 
 This example calls the [1688 Image Search Scraper](https://apify.com/piotrv1001/1688-image-search-scraper) through Apify's Node.js client. It uses an existing Actor; it does not implement image search or a scraper.
 
+![1688 image-search dataset with CNY prices, similarity, suppliers, and sponsored flags](./1688_image_search_results.png)
+
+The screenshot shows seven visible matches from a separate run. The code below requests up to 30 matches from one example photo.
+
 ## What this example does
 
 - Sends one public product photo to the Actor
